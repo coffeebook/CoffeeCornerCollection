@@ -1,6 +1,7 @@
 
 #set -vx
 
+git submodule add ssh://git@github.com/coffeebook/forms modules/forms
 git submodule add ssh://git@github.com/coffeebook/coffeecup modules/coffeecup
 git submodule add ssh://git@github.com/coffeebook/js2coffee modules/js2coffee
 git submodule add ssh://git@github.com/coffeebook/cs2js modules/cs2js

@@ -1,3 +1,10 @@
+
+
+Repositories with remote upstream
+---------------------------------
+
+Usage: `git config --list|grep '^submodule'`
+
 js2coffee
 coffeecup
 coffeecup-helpers

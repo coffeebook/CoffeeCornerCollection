@@ -16,3 +16,6 @@
 [submodule "modules/coffeeconvendor"]
 	path = modules/coffeeconvendor
 	url = ssh://git@github.com/coffeebook/CoffeeConvendor
+[submodule "modules/forms"]
+	path = modules/forms
+	url = ssh://git@github.com/coffeebook/forms
