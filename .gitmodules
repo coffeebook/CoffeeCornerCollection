@@ -13,3 +13,6 @@
 [submodule "modules/json-template"]
 	path = modules/json-template
 	url = ssh://git@github.com/coffeebook/json-template
+[submodule "modules/coffeeconvendor"]
+	path = modules/coffeeconvendor
+	url = ssh://git@github.com/coffeebook/CoffeeConvendor
