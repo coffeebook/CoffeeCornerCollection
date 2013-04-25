@@ -1,0 +1,27 @@
+{
+  "name": "coffee-and-paper",
+  "version": "0.0.1",
+  "description": "A beloved morning routine: cup of coffee and a news paper....ahhhh life is good",
+  "main": "morning-paper.coffee",
+  "scripts": {
+    "test": "cake test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coffeebook/coffee-and-paper.git"
+  },
+  "keywords": [
+    "coffee",
+    "paper",
+    "coffeescript",
+    "coffeecup",
+    "literate",
+    "programming",
+    "LP"
+  ],
+  "author": "Rob Jentzema <solobit.net>",
+  "license": "MIT",
+  "dependencies": {
+    "coffee-script": "~1.6.2"
+  }
+}
