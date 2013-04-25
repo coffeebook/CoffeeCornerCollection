@@ -1,0 +1,15 @@
+[submodule "modules/coffeecup"]
+	path = modules/coffeecup
+	url = ssh://git@github.com/coffeebook/coffeecup
+[submodule "modules/js2coffee"]
+	path = modules/js2coffee
+	url = ssh://git@github.com/coffeebook/js2coffee
+[submodule "modules/cs2js"]
+	path = modules/cs2js
+	url = ssh://git@github.com/coffeebook/cs2js
+[submodule "modules/coffeecup-helpers"]
+	path = modules/coffeecup-helpers
+	url = ssh://git@github.com/coffeebook/coffeecup-helpers
+[submodule "modules/json-template"]
+	path = modules/json-template
+	url = ssh://git@github.com/coffeebook/json-template
