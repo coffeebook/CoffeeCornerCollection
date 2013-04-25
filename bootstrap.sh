@@ -8,9 +8,9 @@ set -vx
 #git submodule add ssh://git@github.com/coffeebook/json-template modules/json-template
 #exit 1
 cd modules
-cd coffeecup && git init && git remote add upstream https://github.com/gradus/coffeecup && cd ..
-#cd js2coffee && git init && git remote add upstream https://github.com/rstacruz/js2coffee && cd ..
-#cd cs2js && git init && git remote add upstream https://github.com/twilson63/cs2js && cd ..
-#cd coffeecup-helpers && git init && git remote add upstream https://github.com/twilson63/coffeecup-helpers && cd ..
-#cd json-template && git init && git remote add upstream https://github.com/Gozala/json-template && cd ..
+cd coffeecup && git submodule init && git remote add upstream https://github.com/gradus/coffeecup && cd ..
+cd js2coffee && git submodule init && git remote add upstream https://github.com/rstacruz/js2coffee && cd ..
+cd cs2js && git submodule init && git remote add upstream https://github.com/twilson63/cs2js && cd ..
+cd coffeecup-helpers && git submodule init && git remote add upstream https://github.com/twilson63/coffeecup-helpers && cd ..
+cd json-template && git submodule init && git remote add upstream https://github.com/Gozala/json-template && cd ..
 
